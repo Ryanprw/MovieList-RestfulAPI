@@ -1,16 +1,30 @@
-# list_movie
+<h1 align="center">
+  Movie List
+</h1>
+<p align="center">
+ Fetching Data from API | Flutter Movie App using TMDB API
+</p>
+<p align="center">
+  <a href="https://flutter.dev/"><img alt="Platform" src="https://img.shields.io/badge/platform-Flutter-blue.svg"></a>
+  <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/dart-3.0.0-blue.svg"></a>
+  <a href="https://github.com/Ryanprw/MovieList-RestfulAPI/"><img alt="Star" src="https://img.shields.io/github/stars/Ryanprw/MovieList-RestfulAPI"></a>
+</p>
 
-A new Flutter project.
+
+![thumbnail](https://github.com/Ryanprw/MovieList-RestfulAPI/assets/54059328/970f9190-c312-4100-8b8e-8239de9614bb)
+
+
+
+
+
 
 ## Getting Started
+To build and run this project:
 
-This project is a starting point for a Flutter application.
+1. Get Flutter [here](https://flutter.dev) if you don't already have it
+2. Clone this repository.
+3. `cd` into the repo folder.
+4. run `flutter run-android` to build the app.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
