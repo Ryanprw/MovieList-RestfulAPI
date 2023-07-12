@@ -2,7 +2,8 @@
   Movie List
 </h1>
 <p align="center">
- Fetching Data from API | Flutter Movie App using TMDB API
+ This project was created to implement the MVVM architecture using HTTP, <br>
+  Fetching Data from API | Flutter Movie App using TMDB API
 </p>
 <p align="center">
   <a href="https://flutter.dev/"><img alt="Platform" src="https://img.shields.io/badge/platform-Flutter-blue.svg"></a>
