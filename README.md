@@ -7,7 +7,6 @@
 </p>
 <p align="center">
   <a href="https://flutter.dev/"><img alt="Platform" src="https://img.shields.io/badge/platform-Flutter-blue.svg"></a>
-  <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/dart-3.0.0-blue.svg"></a>
   <a href="https://github.com/Ryanprw/MovieList-RestfulAPI/"><img alt="Star" src="https://img.shields.io/github/stars/Ryanprw/MovieList-RestfulAPI"></a>
 </p>
 
